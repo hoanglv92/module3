@@ -1,0 +1,34 @@
+p{
+    font-size: 17px;
+    padding: 15px;
+    word-spacing: 8px;
+}
+body{
+    width: 100%;
+    height: auto;
+}
+h2,h3,h4,h5,h6{
+    color: #ff0c13;
+    font-size: 50px;
+}
+.img{
+    width: 100px;
+    height: 80px;
+}
+li>.subnav{
+    display: none;
+}
+li:hover>.subnav{
+    display: block;
+    text-decoration: none;
+}
+.navcha{
+    float: left;
+    display: block;
+    color: #1e24ff;
+}
+.nav4{
+    display: block;
+    color:#ff9028 ;
+    background-color: #3afaff;
+}
